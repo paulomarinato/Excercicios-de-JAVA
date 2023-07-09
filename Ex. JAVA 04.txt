@@ -1,0 +1,13 @@
+
+Exercício 04 - JAVA;
+
+
+Um fabricante de widgets está enfrentando uma demanda inesperadamente alta para seu novo produto. Eles gostariam de satisfazer o maior número possível de clientes. Dado um número de widgets disponíveis e uma lista de pedidos de clientes, qual é o número máximo de pedidos que o fabricante pode atender integralmente?
+
+Descrição da função
+
+Complete a função fillOrders no editor abaixo. A função deve retornar um único inteiro denotando o número máximo possível de pedidos atendidos.
+
+fillOrders tem o(s) seguinte(s) parâmetro(s): order: uma matriz de inteiros listando os pedidos k: um número inteiro denotando widgets disponíveis para remessa
+
+

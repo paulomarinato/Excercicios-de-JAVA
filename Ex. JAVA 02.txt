@@ -20,7 +20,3 @@ getNumber tem o(s) seguinte(s) parâmetro(s):
 
 binary: referência para a cabeça de uma lista encadeada simples de dígitos binários
 
-Retorno:
-
-int: uma representação (número inteiro longo)[10] do número binário
-
