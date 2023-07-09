@@ -1,0 +1,47 @@
+
+Exercício 01 - JAVA;
+
+
+Subconjuntos de Matriz
+
+Dado um array inteiro, divida o array em 2 subconjuntos A e B respeitando as seguintes condições:
+• A interseção de A e B é nula.
+• A união A e B é igual à matriz original. 
+• O número de elementos no subconjunto A é mínimo.
+• A soma dos elementos de A é maior que a soma dos elementos de B.
+
+Retorne o subconjunto A em ordem crescente onde a soma dos elementos de A é maior que a soma dos elementos de B. Se existir mais de um subconjunto, retorne aquele com a soma máxima.
+
+
+Exemplo
+
+n=5
+arr [3, 7, 5, 6, 21
+Os 2 subconjuntos em arr que satisfazem as condições para A são [5, 7] e [6, 7]:
+
+
+• A é mínimo (tamanho 2)
+• Soma(A) = (5+7) = 12> Soma(B) = (2+3+6) =11 
+• Soma(A) = (6+7)=13> Soma(B) = (2+3+5)=10
+• A interseção de A e B é nula e sua união é igual a arr.
+• O subconjunto A onde a soma de seus elementos é máxima é [6, 7].
+
+
+Descrição da função
+Complete a função subsetA no editor abaixo.
+
+subsetA tem o(s) seguinte(s) parâmetro(s): int arr[]: uma matriz inteira Retorna: int[]: uma matriz inteira com os valores do subconjunto A.
+
+
+Restrições
+• 1≤ns 10
+• 1≤ arr[i]≤ 10 (onde 0≤i≤n)
+
+
+Formato de entrada para testes personalizados
+
+A primeira linha contém um inteiro, n, denotando o número elementos na matriz. Cada linha I da N linhas subsequentes contém um inteiro, um elemento de arr.
+
+
+
+

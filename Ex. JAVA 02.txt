@@ -1,0 +1,33 @@
+
+Exercício 01 - JAVA;
+
+
+Número Binário em uma Lista Encadeada
+
+Um número binário é representado como uma série de 0s e 1s. Neste desafio, a série será na forma de uma lista encadeada simples. Cada instância de nó, um LinkedListNode, tem um valor, chamado de data, e um ponteiro para o próximo nó, chamado de next. Dado uma referência para a cabeça de uma lista encadeada simples, converta o número binário representado para um número decimal.
+
+Exemplo
+
+Lista Encadeada: 0 1 0 1 0 (binário) null
+
+A lista encadeada corresponde ao número binário (010011)[2] ou (19) [10].
+
+Descrição da função
+
+Complete a função getNumber no editor abaixo.
+
+getNumber tem o(s) seguinte(s) parâmetro(s):
+
+binary: referência para a cabeça de uma lista encadeada simples de dígitos binários
+
+Retorno:
+
+int: uma representação (número inteiro longo)[10] do número binário
+
+Restrições
+
+• 1≤n≤64
+
+• Todos os LinkedListNode.data são (0 ou 1)
+
+• O número descrito (inteiro)[2] < 264
