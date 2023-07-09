@@ -24,10 +24,3 @@ Retorno:
 
 int: uma representação (número inteiro longo)[10] do número binário
 
-Restrições
-
-• 1≤n≤64
-
-• Todos os LinkedListNode.data são (0 ou 1)
-
-• O número descrito (inteiro)[2] < 264

@@ -1,0 +1,12 @@
+
+Exercicio 03 - JAVA;
+
+
+Reparação de estradas
+
+Vários pontos ao longo da rodovia precisam de reparos. Um númer igual de equipes está disponível, estacionado em vários pontos ao longo da rodovia. Eles devem se mover ao longo da rodovia para chegar a um ponto designado. Dado que uma equipe deve ser designada para cada trabalho, qual é a distância total minima percorrida por todas as equipes antes que possam começar a trabalhar?
+
+Por exemplo, dadas as equipes nos pontos (1,3,5) e os reparos necessários em (3,5,7), uma atribuição minima possível seria (1-3, 3 →5,5-7) para um total de 6 unidades percorridas.
+
+
+

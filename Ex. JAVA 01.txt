@@ -38,10 +38,4 @@ Restrições
 • 1≤ arr[i]≤ 10 (onde 0≤i≤n)
 
 
-Formato de entrada para testes personalizados
-
-A primeira linha contém um inteiro, n, denotando o número elementos na matriz. Cada linha I da N linhas subsequentes contém um inteiro, um elemento de arr.
-
-
-
 
