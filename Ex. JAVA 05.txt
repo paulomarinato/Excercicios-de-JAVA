@@ -1,0 +1,36 @@
+
+Exercícios 05 - JAVA;
+
+Complete the implementation of an autocorrect function. Given a search query string, the function should return all words which are anagrams.
+
+Given 2 arrays, words[n], and queries[q], for each query, return an array of the strings that are anagrams, sorted alphabetically ascending.
+
+Note: An anagram is any string that can be formed by rearranging the letters of a string.
+
+Example
+
+n=4, q=2 words=["duel", "speed", "dule", "cars"], queries-spede", "deul").
+
+The only anagram of "spede" is "speed".
+
+Both "duel" and "dule" are anagrams of "deul".
+
+Return [["speed"], ["duel", "dule"]].
+
+Function Description
+
+Complete the function getSearchResults in the editor below.
+
+getSearchResults takes the following arguments: string words[n]: the list of words to search string queries[q]: the words to search for
+
+Returns
+
+string[q]]: the results for each search query
+
+Constraints
+
+1 ≤n. qs 5000
+
+1s length of words[i], length of queries[i] ≤ 100
+
+It is guaranteed that each query word has at least one anagram in the words list.
